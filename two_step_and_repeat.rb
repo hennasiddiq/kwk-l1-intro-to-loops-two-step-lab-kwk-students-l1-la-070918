@@ -23,3 +23,4 @@ puts "Right foot back"
 sleep (0.5)
 puts "Stop"
 sleep(1)
+irb -r ./two_step_and_repeat.rb
